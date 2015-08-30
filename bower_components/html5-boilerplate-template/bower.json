@@ -1,0 +1,12 @@
+{
+  "name": "html5-boilerplate-template",
+  "version": "0.2.2",
+  "main": "index.underscore",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

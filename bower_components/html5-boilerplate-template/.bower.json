@@ -1,0 +1,23 @@
+{
+  "name": "html5-boilerplate-template",
+  "version": "0.2.2",
+  "main": "index.underscore",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/davewasmer/html5-boilerplate-template",
+  "_release": "0.2.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.2",
+    "commit": "bf8a01e7df6dd0e6927081870f7af353b32e4bdd"
+  },
+  "_source": "git://github.com/davewasmer/html5-boilerplate-template.git",
+  "_target": "~0.2.2",
+  "_originalSource": "html5-boilerplate-template",
+  "_direct": true
+}
